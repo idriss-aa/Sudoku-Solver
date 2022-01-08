@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sudokufx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../solver-sudoku-fx_lib/sudokufx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

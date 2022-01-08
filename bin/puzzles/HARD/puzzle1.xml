@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sudoku>
+  <Hints>
+    <Rows>
+      <Row>-,3,-,2,-,4,5,-,8,</Row>
+      <Row>-,-,4,6,-,7,-,-,2,</Row>
+      <Row>-,-,5,-,-,3,-,-,4,</Row>
+      <Row>-,2,1,-,-,-,-,4,-,</Row>
+      <Row>-,5,-,9,3,2,3,-,-,</Row>
+      <Row>-,6,-,-,-,-,-,-,-,</Row>
+      <Row>5,-,-,4,7,-,-,-,-,</Row>
+      <Row>6,-,-,3,1,-,7,5,-,</Row>
+      <Row>7,-,-,-,-,-,-,1,6,</Row>
+    </Rows>
+  </Hints>
+</Sudoku>
